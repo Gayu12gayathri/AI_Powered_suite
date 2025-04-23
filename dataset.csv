@@ -1,0 +1,501 @@
+labels,Symptoms
+COVID19,"Fatigue, Fever, Congestion, Body aches, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Fever, Bluish skin"
+TUBERCULOSIS,"Night sweats, Fatigue, Coughing blood, Chills, Chronic cough, Weight loss, Chest pain"
+COVID19,"Fever, Sore throat, Headache, Loss of taste or smell, Chills, Fatigue, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chills, Weakness, Shortness of breath, Loss of appetite"
+TUBERCULOSIS,"Chest pain, Coughing blood, Weakness, Chronic cough, Weight loss, Night sweats, Chills"
+COVID19,"Cough, Chills, Headache, Fatigue, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Loss of appetite, Fatigue"
+TUBERCULOSIS,"Loss of appetite, Shortness of breath, Chills, Chest pain, Weight loss"
+COVID19,"Shortness of breath, Loss of taste or smell, Headache, Sore throat, Fever, Nausea, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Bluish skin, Chills"
+TUBERCULOSIS,"Chronic cough, Weakness, Fever, Coughing blood"
+COVID19,"Cough, Sore throat, Congestion, Shortness of breath, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Weakness, Muscle pain, Fever, Fatigue"
+TUBERCULOSIS,"Chills, Chronic cough, Loss of appetite, Weight loss, Coughing blood"
+COVID19,"Nausea, Loss of taste or smell, Shortness of breath, Fever, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Bluish skin, Sweating, Chest pain, Cough with phlegm"
+TUBERCULOSIS,"Chest pain, Weakness, Loss of appetite, Shortness of breath, Coughing blood, Chronic cough"
+COVID19,"Nausea, Congestion, Fatigue, Loss of taste or smell, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Chest pain, Cough with phlegm, Chills, Fever, Fatigue, Loss of appetite"
+TUBERCULOSIS,"Loss of appetite, Weakness, Fatigue, Shortness of breath, Coughing blood"
+COVID19,"Nausea, Fever, Chills, Congestion, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Sweating, Shortness of breath, Cough with phlegm"
+TUBERCULOSIS,"Shortness of breath, Night sweats, Chronic cough, Fatigue"
+COVID19,"Congestion, Nausea, Body aches, Chills, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Sweating, Fever, Chills"
+TUBERCULOSIS,"Loss of appetite, Chills, Night sweats"
+COVID19,"Body aches, Fever, Chills, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Fever, Weakness"
+TUBERCULOSIS,"Chills, Fatigue, Chronic cough, Chest pain, Fever, Weakness"
+COVID19,"Fever, Congestion, Headache, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Sweating, Fatigue"
+TUBERCULOSIS,"Coughing blood, Night sweats, Weakness, Loss of appetite, Weight loss"
+COVID19,"Loss of taste or smell, Congestion, Shortness of breath, Body aches, Fatigue, Chills, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Fatigue, Cough with phlegm, Chills, Loss of appetite, Shortness of breath, Muscle pain"
+TUBERCULOSIS,"Shortness of breath, Chest pain, Weight loss, Fatigue, Chronic cough"
+COVID19,"Loss of taste or smell, Congestion, Cough, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Weakness, Muscle pain"
+TUBERCULOSIS,"Chest pain, Coughing blood, Fatigue, Shortness of breath, Weakness, Chills"
+COVID19,"Body aches, Chills, Fever, Congestion, Loss of taste or smell, Fatigue, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Fatigue, Chest pain, Fever, Cough with phlegm, Bluish skin, Chills"
+TUBERCULOSIS,"Loss of appetite, Fatigue, Chest pain"
+COVID19,"Diarrhea, Congestion, Body aches, Fatigue, Sore throat, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Muscle pain, Sweating"
+TUBERCULOSIS,"Fatigue, Night sweats, Chills, Loss of appetite, Chest pain, Shortness of breath"
+COVID19,"Fever, Sore throat, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Shortness of breath, Weakness, Chills"
+TUBERCULOSIS,"Fatigue, Weakness, Chills, Night sweats"
+COVID19,"Diarrhea, Body aches, Fatigue, Nausea, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chest pain, Loss of appetite, Fever, Sweating, Chills, Bluish skin"
+TUBERCULOSIS,"Night sweats, Shortness of breath, Coughing blood, Weakness, Weight loss, Loss of appetite, Chills"
+COVID19,"Loss of taste or smell, Fever, Diarrhea, Cough, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Weakness, Fatigue, Shortness of breath, Fever, Chills"
+TUBERCULOSIS,"Shortness of breath, Weakness, Chronic cough, Loss of appetite"
+COVID19,"Loss of taste or smell, Nausea, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Bluish skin, Shortness of breath, Fatigue, Loss of appetite, Weakness"
+TUBERCULOSIS,"Weakness, Chills, Fever"
+COVID19,"Fatigue, Chills, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Loss of appetite, Cough with phlegm"
+TUBERCULOSIS,"Chronic cough, Chest pain, Fatigue, Shortness of breath, Coughing blood, Weakness"
+COVID19,"Sore throat, Diarrhea, Headache, Chills, Nausea, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Loss of appetite, Cough with phlegm, Sweating, Chest pain"
+TUBERCULOSIS,"Fever, Night sweats, Weakness, Loss of appetite, Chills, Fatigue, Shortness of breath"
+COVID19,"Sore throat, Nausea, Body aches, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Shortness of breath, Cough with phlegm, Fatigue, Loss of appetite"
+TUBERCULOSIS,"Loss of appetite, Coughing blood, Weakness, Fever, Chronic cough, Chills, Weight loss"
+COVID19,"Shortness of breath, Headache, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Chest pain, Sweating, Muscle pain, Shortness of breath, Fever, Cough with phlegm"
+TUBERCULOSIS,"Weight loss, Fever, Loss of appetite, Night sweats, Shortness of breath, Chest pain"
+COVID19,"Fatigue, Diarrhea, Chills, Sore throat, Cough, Shortness of breath, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Chills, Fever, Chest pain, Sweating, Loss of appetite, Muscle pain"
+TUBERCULOSIS,"Chills, Fever, Chest pain, Loss of appetite"
+COVID19,"Chills, Fatigue, Congestion, Headache, Nausea, Shortness of breath, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Chills, Bluish skin, Cough with phlegm"
+TUBERCULOSIS,"Fever, Weakness, Chronic cough"
+COVID19,"Loss of taste or smell, Fatigue, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Weakness, Bluish skin"
+TUBERCULOSIS,"Chest pain, Loss of appetite, Fever"
+COVID19,"Congestion, Nausea, Sore throat, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chills, Sweating, Bluish skin, Chest pain, Loss of appetite"
+TUBERCULOSIS,"Chest pain, Fatigue, Chills, Weakness, Chronic cough, Loss of appetite, Shortness of breath"
+COVID19,"Fever, Sore throat, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Shortness of breath, Fever, Loss of appetite, Chills"
+TUBERCULOSIS,"Chest pain, Weight loss, Chills, Coughing blood, Shortness of breath, Fatigue"
+COVID19,"Headache, Congestion, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Loss of appetite, Fatigue, Weakness"
+TUBERCULOSIS,"Fatigue, Chills, Chest pain"
+COVID19,"Sore throat, Fever, Chills, Shortness of breath, Fatigue, Body aches, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Chest pain, Bluish skin, Weakness"
+TUBERCULOSIS,"Chest pain, Weight loss, Shortness of breath, Coughing blood, Night sweats, Fever"
+COVID19,"Cough, Fever, Sore throat, Shortness of breath, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Shortness of breath, Fever"
+TUBERCULOSIS,"Weight loss, Chronic cough, Fever, Night sweats, Coughing blood"
+COVID19,"Fatigue, Loss of taste or smell, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Bluish skin, Weakness, Muscle pain"
+TUBERCULOSIS,"Chills, Fever, Weakness"
+COVID19,"Chills, Fever, Cough, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Sweating, Fatigue, Fever, Muscle pain, Chills, Loss of appetite"
+TUBERCULOSIS,"Coughing blood, Weight loss, Chills, Weakness, Fatigue"
+COVID19,"Fever, Headache, Shortness of breath, Chills, Sore throat, Body aches, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Loss of appetite, Bluish skin"
+TUBERCULOSIS,"Chronic cough, Loss of appetite, Night sweats, Fatigue, Weight loss"
+COVID19,"Fever, Chills, Fatigue, Diarrhea, Body aches, Shortness of breath, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Shortness of breath, Cough with phlegm, Muscle pain, Sweating"
+TUBERCULOSIS,"Shortness of breath, Loss of appetite, Coughing blood, Fever"
+COVID19,"Chills, Nausea, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Weakness, Fever, Sweating, Bluish skin, Shortness of breath, Chills"
+TUBERCULOSIS,"Weakness, Fatigue, Night sweats, Loss of appetite"
+COVID19,"Chills, Cough, Congestion, Fever, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Muscle pain, Loss of appetite, Chills, Cough with phlegm"
+TUBERCULOSIS,"Fever, Fatigue, Coughing blood, Chest pain, Loss of appetite, Chills, Chronic cough"
+COVID19,"Fever, Nausea, Shortness of breath, Loss of taste or smell, Sore throat, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Muscle pain, Loss of appetite, Fatigue"
+TUBERCULOSIS,"Coughing blood, Chronic cough, Fatigue, Chills, Weight loss, Chest pain, Shortness of breath"
+COVID19,"Diarrhea, Chills, Fatigue, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Cough with phlegm, Loss of appetite, Fever"
+TUBERCULOSIS,"Chills, Night sweats, Chronic cough, Fatigue, Shortness of breath, Weakness, Chest pain"
+COVID19,"Shortness of breath, Body aches, Fever, Chills, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Fever, Bluish skin"
+TUBERCULOSIS,"Night sweats, Chills, Weakness, Chest pain"
+COVID19,"Fever, Chills, Shortness of breath, Loss of taste or smell, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Muscle pain, Chest pain, Sweating, Shortness of breath, Bluish skin, Loss of appetite"
+TUBERCULOSIS,"Fatigue, Chest pain, Coughing blood, Chills, Night sweats"
+COVID19,"Body aches, Fatigue, Cough, Sore throat, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Cough with phlegm, Shortness of breath, Chills"
+TUBERCULOSIS,"Night sweats, Weight loss, Weakness, Chronic cough, Fever, Loss of appetite"
+COVID19,"Loss of taste or smell, Fever, Fatigue, Sore throat, Chills, Cough, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Cough with phlegm, Fever"
+TUBERCULOSIS,"Coughing blood, Chills, Chronic cough, Fever, Loss of appetite"
+COVID19,"Fatigue, Shortness of breath, Sore throat, Loss of taste or smell, Headache, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Cough with phlegm, Shortness of breath, Fatigue, Bluish skin, Loss of appetite"
+TUBERCULOSIS,"Loss of appetite, Chest pain, Night sweats, Chills, Fatigue"
+COVID19,"Body aches, Shortness of breath, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Cough with phlegm, Weakness, Chest pain, Chills, Shortness of breath"
+TUBERCULOSIS,"Fatigue, Fever, Chronic cough, Weakness, Loss of appetite, Night sweats"
+COVID19,"Nausea, Fatigue, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chills, Cough with phlegm"
+TUBERCULOSIS,"Coughing blood, Night sweats, Chronic cough, Weight loss, Loss of appetite"
+COVID19,"Headache, Shortness of breath, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Cough with phlegm, Chest pain"
+TUBERCULOSIS,"Shortness of breath, Night sweats, Coughing blood, Loss of appetite, Chest pain, Weakness, Fever"
+COVID19,"Sore throat, Shortness of breath, Fatigue, Congestion, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Fatigue, Loss of appetite, Chills, Cough with phlegm, Muscle pain"
+TUBERCULOSIS,"Weight loss, Loss of appetite, Chest pain, Coughing blood, Fever, Chills, Fatigue"
+COVID19,"Shortness of breath, Diarrhea, Fatigue, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Fever, Sweating"
+TUBERCULOSIS,"Chronic cough, Night sweats, Loss of appetite, Shortness of breath, Fever, Chills, Weight loss"
+COVID19,"Diarrhea, Chills, Body aches, Loss of taste or smell, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Loss of appetite, Cough with phlegm, Sweating, Fatigue"
+TUBERCULOSIS,"Chills, Fever, Weakness, Chronic cough, Weight loss, Night sweats"
+COVID19,"Sore throat, Loss of taste or smell, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Sweating, Fever, Muscle pain"
+TUBERCULOSIS,"Weight loss, Night sweats, Fatigue, Coughing blood"
+COVID19,"Diarrhea, Shortness of breath, Headache, Body aches, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Muscle pain, Loss of appetite, Cough with phlegm, Chills, Chest pain"
+TUBERCULOSIS,"Fever, Weight loss, Chest pain"
+COVID19,"Body aches, Sore throat, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Shortness of breath, Muscle pain, Loss of appetite, Sweating"
+TUBERCULOSIS,"Night sweats, Loss of appetite, Shortness of breath, Chills, Chronic cough, Fever, Weight loss"
+COVID19,"Body aches, Sore throat, Nausea, Fatigue, Loss of taste or smell, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Cough with phlegm, Bluish skin, Fever"
+TUBERCULOSIS,"Weight loss, Chronic cough, Fatigue"
+COVID19,"Fever, Body aches, Cough, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Fever, Chest pain"
+TUBERCULOSIS,"Fever, Chest pain, Chronic cough, Coughing blood"
+COVID19,"Diarrhea, Fatigue, Sore throat, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Cough with phlegm, Fatigue, Muscle pain"
+TUBERCULOSIS,"Fever, Chronic cough, Chills, Coughing blood, Night sweats, Chest pain"
+COVID19,"Body aches, Chills, Sore throat, Nausea, Loss of taste or smell, Cough, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chills, Loss of appetite, Weakness, Fever, Chest pain"
+TUBERCULOSIS,"Coughing blood, Fever, Chronic cough, Weakness, Loss of appetite, Weight loss, Shortness of breath"
+COVID19,"Fatigue, Loss of taste or smell, Diarrhea, Nausea, Shortness of breath, Cough, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Chills, Loss of appetite, Fever"
+TUBERCULOSIS,"Loss of appetite, Weight loss, Fatigue"
+COVID19,"Headache, Sore throat, Loss of taste or smell, Nausea, Diarrhea, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Fever, Loss of appetite, Muscle pain, Chills, Cough with phlegm"
+TUBERCULOSIS,"Loss of appetite, Chills, Night sweats, Coughing blood, Chest pain, Fatigue"
+COVID19,"Chills, Loss of taste or smell, Cough, Sore throat, Fever, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Loss of appetite, Shortness of breath, Fatigue, Muscle pain, Chest pain, Fever"
+TUBERCULOSIS,"Weakness, Fever, Shortness of breath, Night sweats, Chronic cough, Chest pain"
+COVID19,"Loss of taste or smell, Diarrhea, Cough, Fever, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Sweating, Chest pain"
+TUBERCULOSIS,"Weakness, Coughing blood, Chills, Night sweats"
+COVID19,"Congestion, Fatigue, Chills, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Muscle pain, Chills, Weakness, Loss of appetite"
+TUBERCULOSIS,"Loss of appetite, Chronic cough, Fever, Chest pain, Coughing blood, Weakness, Chills"
+COVID19,"Nausea, Fatigue, Diarrhea, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Weakness, Shortness of breath"
+TUBERCULOSIS,"Night sweats, Chest pain, Fatigue, Fever, Chronic cough, Weakness, Shortness of breath"
+COVID19,"Headache, Sore throat, Diarrhea, Chills, Shortness of breath, Fever, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Chills, Loss of appetite"
+TUBERCULOSIS,"Coughing blood, Chest pain, Chronic cough, Weakness"
+COVID19,"Headache, Diarrhea, Shortness of breath, Fatigue, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Chills, Chest pain, Sweating, Fever"
+TUBERCULOSIS,"Loss of appetite, Chronic cough, Fever, Fatigue, Weight loss, Chills, Night sweats"
+COVID19,"Nausea, Headache, Shortness of breath, Fever, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Fever, Cough with phlegm"
+TUBERCULOSIS,"Chest pain, Fever, Chronic cough, Fatigue, Coughing blood"
+COVID19,"Headache, Loss of taste or smell, Sore throat, Body aches, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Fatigue, Loss of appetite, Cough with phlegm, Muscle pain, Chest pain"
+TUBERCULOSIS,"Night sweats, Weight loss, Chronic cough, Chest pain, Fatigue"
+COVID19,"Nausea, Headache, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Sweating, Loss of appetite"
+TUBERCULOSIS,"Weakness, Coughing blood, Fever, Weight loss"
+COVID19,"Congestion, Nausea, Loss of taste or smell, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Weakness, Chest pain, Sweating, Muscle pain"
+TUBERCULOSIS,"Weakness, Fatigue, Fever, Loss of appetite, Chest pain, Chronic cough"
+COVID19,"Diarrhea, Sore throat, Cough, Shortness of breath, Fever, Body aches, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Muscle pain, Fatigue"
+TUBERCULOSIS,"Weight loss, Chills, Chest pain, Coughing blood, Chronic cough, Weakness, Fatigue"
+COVID19,"Cough, Fever, Fatigue, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Chills, Shortness of breath, Fatigue, Muscle pain, Weakness, Cough with phlegm"
+TUBERCULOSIS,"Shortness of breath, Weakness, Night sweats, Chest pain, Weight loss, Chills"
+COVID19,"Nausea, Sore throat, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Shortness of breath, Bluish skin, Muscle pain, Weakness"
+TUBERCULOSIS,"Loss of appetite, Weakness, Fatigue, Chills, Chronic cough, Coughing blood, Chest pain"
+COVID19,"Fever, Body aches, Chills, Shortness of breath, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Muscle pain, Fever"
+TUBERCULOSIS,"Shortness of breath, Fever, Coughing blood, Loss of appetite, Chest pain, Chills"
+COVID19,"Nausea, Congestion, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Weakness, Sweating, Cough with phlegm"
+TUBERCULOSIS,"Loss of appetite, Chronic cough, Weakness, Fatigue, Weight loss, Shortness of breath"
+COVID19,"Chills, Loss of taste or smell, Body aches, Fatigue, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Loss of appetite, Bluish skin, Cough with phlegm, Fever, Chest pain, Muscle pain"
+TUBERCULOSIS,"Fatigue, Chronic cough, Loss of appetite, Weakness, Shortness of breath"
+COVID19,"Sore throat, Fever, Body aches, Loss of taste or smell, Nausea, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Fatigue, Weakness"
+TUBERCULOSIS,"Chills, Coughing blood, Night sweats, Shortness of breath"
+COVID19,"Loss of taste or smell, Nausea, Body aches, Diarrhea, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Cough with phlegm, Sweating"
+TUBERCULOSIS,"Chest pain, Shortness of breath, Coughing blood"
+COVID19,"Headache, Chills, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Weakness, Bluish skin"
+TUBERCULOSIS,"Weakness, Chronic cough, Weight loss, Shortness of breath, Fever, Fatigue, Chest pain"
+COVID19,"Fever, Sore throat, Headache, Cough, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Fatigue, Chills, Chest pain, Loss of appetite, Shortness of breath, Sweating"
+TUBERCULOSIS,"Weight loss, Weakness, Loss of appetite"
+COVID19,"Diarrhea, Fatigue, Shortness of breath, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Cough with phlegm, Fever, Chills, Sweating, Weakness"
+TUBERCULOSIS,"Shortness of breath, Weight loss, Chest pain, Chronic cough, Chills, Loss of appetite"
+COVID19,"Shortness of breath, Cough, Congestion, Headache, Sore throat, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Weakness, Cough with phlegm, Fever, Sweating"
+TUBERCULOSIS,"Loss of appetite, Chills, Shortness of breath, Chronic cough, Fatigue"
+COVID19,"Fever, Headache, Diarrhea, Body aches, Chills, Loss of taste or smell, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Loss of appetite, Muscle pain, Chills, Bluish skin, Fever, Chest pain"
+TUBERCULOSIS,"Shortness of breath, Chills, Weakness"
+COVID19,"Cough, Fatigue, Diarrhea, Shortness of breath, Headache, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Fever, Fatigue, Shortness of breath, Weakness, Loss of appetite"
+TUBERCULOSIS,"Fever, Weakness, Fatigue, Weight loss, Coughing blood, Night sweats, Chronic cough"
+COVID19,"Sore throat, Shortness of breath, Fever, Chills, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Weakness, Muscle pain"
+TUBERCULOSIS,"Chills, Chest pain, Chronic cough"
+COVID19,"Fatigue, Cough, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Chest pain, Weakness, Chills, Loss of appetite"
+TUBERCULOSIS,"Weight loss, Chronic cough, Chills, Fever"
+COVID19,"Cough, Chills, Sore throat, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Weakness, Muscle pain, Bluish skin, Fatigue, Shortness of breath"
+TUBERCULOSIS,"Fever, Fatigue, Coughing blood, Chills, Chest pain, Weight loss"
+COVID19,"Diarrhea, Congestion, Chills, Fatigue, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Loss of appetite, Muscle pain, Chills, Sweating"
+TUBERCULOSIS,"Chills, Weakness, Chronic cough, Weight loss, Fatigue, Coughing blood, Fever"
+COVID19,"Headache, Loss of taste or smell, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Bluish skin, Chest pain, Fatigue"
+TUBERCULOSIS,"Coughing blood, Chronic cough, Weight loss"
+COVID19,"Diarrhea, Cough, Body aches, Chills, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Fatigue, Fever, Muscle pain, Sweating"
+TUBERCULOSIS,"Coughing blood, Chronic cough, Fever, Night sweats, Loss of appetite, Shortness of breath"
+COVID19,"Body aches, Diarrhea, Fatigue, Congestion, Cough, Nausea, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Sweating, Weakness, Fatigue, Bluish skin, Muscle pain"
+TUBERCULOSIS,"Weight loss, Chronic cough, Chest pain, Night sweats, Chills"
+COVID19,"Body aches, Headache, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Chills, Bluish skin, Muscle pain"
+TUBERCULOSIS,"Shortness of breath, Chills, Weakness"
+COVID19,"Fever, Cough, Loss of taste or smell, Headache, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Fatigue, Loss of appetite, Cough with phlegm"
+TUBERCULOSIS,"Weight loss, Chronic cough, Loss of appetite, Weakness, Shortness of breath"
+COVID19,"Shortness of breath, Fever, Nausea, Fatigue, Diarrhea, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Bluish skin, Weakness, Fatigue, Shortness of breath, Fever"
+TUBERCULOSIS,"Weight loss, Loss of appetite, Fever, Chills, Coughing blood, Chronic cough, Shortness of breath"
+COVID19,"Sore throat, Chills, Diarrhea, Fatigue, Congestion, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Fatigue, Bluish skin"
+TUBERCULOSIS,"Chills, Night sweats, Fever, Weakness, Coughing blood, Chest pain, Shortness of breath"
+COVID19,"Fever, Fatigue, Body aches, Diarrhea, Sore throat, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Fatigue, Bluish skin, Fever, Loss of appetite, Weakness"
+TUBERCULOSIS,"Loss of appetite, Coughing blood, Chest pain, Fever, Chronic cough, Weight loss"
+COVID19,"Body aches, Cough, Fatigue, Nausea, Loss of taste or smell, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Sweating, Weakness, Bluish skin, Chills, Cough with phlegm"
+TUBERCULOSIS,"Loss of appetite, Fatigue, Shortness of breath, Coughing blood, Chills, Chest pain"
+COVID19,"Cough, Diarrhea, Headache, Fatigue, Shortness of breath"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Chills, Loss of appetite, Shortness of breath"
+TUBERCULOSIS,"Fatigue, Chest pain, Night sweats, Shortness of breath, Weakness, Loss of appetite, Coughing blood"
+COVID19,"Nausea, Body aches, Cough, Fever, Congestion, Chills, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Loss of appetite, Sweating, Chest pain, Bluish skin"
+TUBERCULOSIS,"Loss of appetite, Chronic cough, Fatigue"
+COVID19,"Diarrhea, Shortness of breath, Chills, Headache, Fever, Loss of taste or smell, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Fatigue, Loss of appetite, Shortness of breath, Chest pain"
+TUBERCULOSIS,"Night sweats, Coughing blood, Chills, Weight loss, Fever, Fatigue"
+COVID19,"Body aches, Diarrhea, Loss of taste or smell, Nausea, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Cough with phlegm, Fatigue, Sweating, Fever"
+TUBERCULOSIS,"Night sweats, Chronic cough, Coughing blood, Weight loss"
+COVID19,"Shortness of breath, Congestion, Sore throat, Diarrhea, Chills"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Fever, Shortness of breath"
+TUBERCULOSIS,"Shortness of breath, Chest pain, Weakness, Fatigue, Night sweats"
+COVID19,"Loss of taste or smell, Chills, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Muscle pain, Shortness of breath"
+TUBERCULOSIS,"Coughing blood, Loss of appetite, Fever, Shortness of breath, Chills, Chest pain, Night sweats"
+COVID19,"Shortness of breath, Headache, Fever, Fatigue, Diarrhea, Loss of taste or smell, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Sweating, Chills, Bluish skin, Fatigue, Chest pain, Loss of appetite"
+TUBERCULOSIS,"Weakness, Chronic cough, Fatigue"
+COVID19,"Sore throat, Body aches, Cough, Fever"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Sweating, Chills, Fever, Shortness of breath"
+TUBERCULOSIS,"Weakness, Coughing blood, Fatigue, Night sweats"
+COVID19,"Cough, Fever, Body aches, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Cough with phlegm, Loss of appetite, Weakness, Muscle pain, Chest pain, Sweating"
+TUBERCULOSIS,"Chronic cough, Chest pain, Weakness, Chills, Coughing blood, Fatigue, Weight loss"
+COVID19,"Cough, Sore throat, Shortness of breath, Diarrhea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Sweating, Fatigue, Cough with phlegm, Bluish skin, Chills"
+TUBERCULOSIS,"Weakness, Coughing blood, Night sweats, Chest pain, Fatigue"
+COVID19,"Shortness of breath, Fatigue, Congestion, Nausea, Cough, Headache, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Loss of appetite, Sweating, Shortness of breath"
+TUBERCULOSIS,"Night sweats, Weakness, Chills, Weight loss, Chest pain, Chronic cough"
+COVID19,"Loss of taste or smell, Fatigue, Diarrhea, Body aches, Chills, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Loss of appetite, Muscle pain"
+TUBERCULOSIS,"Loss of appetite, Shortness of breath, Coughing blood"
+COVID19,"Shortness of breath, Body aches, Nausea, Sore throat, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Shortness of breath, Weakness"
+TUBERCULOSIS,"Fever, Weight loss, Night sweats, Loss of appetite, Coughing blood, Shortness of breath"
+COVID19,"Diarrhea, Sore throat, Chills, Congestion, Fatigue, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Muscle pain, Fatigue, Chest pain, Weakness, Cough with phlegm"
+TUBERCULOSIS,"Chronic cough, Night sweats, Chills, Fatigue, Loss of appetite, Coughing blood, Chest pain"
+COVID19,"Congestion, Diarrhea, Nausea, Headache, Fatigue, Shortness of breath, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Chest pain, Shortness of breath, Chills, Loss of appetite"
+TUBERCULOSIS,"Weakness, Fever, Chest pain, Coughing blood"
+COVID19,"Nausea, Congestion, Fatigue, Sore throat"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Fatigue, Shortness of breath, Fever"
+TUBERCULOSIS,"Fever, Fatigue, Coughing blood, Weakness, Loss of appetite, Shortness of breath, Chills"
+COVID19,"Body aches, Fatigue, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Muscle pain, Fatigue, Weakness, Loss of appetite, Fever"
+TUBERCULOSIS,"Weakness, Fatigue, Chronic cough, Weight loss, Shortness of breath"
+COVID19,"Headache, Shortness of breath, Fever, Congestion, Body aches, Nausea, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Loss of appetite, Cough with phlegm, Shortness of breath, Bluish skin, Weakness"
+TUBERCULOSIS,"Weight loss, Chest pain, Chills, Loss of appetite"
+COVID19,"Fever, Diarrhea, Chills, Headache, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Loss of appetite, Muscle pain, Weakness, Bluish skin, Chest pain, Shortness of breath"
+TUBERCULOSIS,"Fatigue, Chronic cough, Weight loss, Loss of appetite, Chills, Weakness, Fever"
+COVID19,"Chills, Fever, Headache, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Chills, Weakness, Cough with phlegm, Bluish skin"
+TUBERCULOSIS,"Weakness, Fever, Chest pain"
+COVID19,"Body aches, Loss of taste or smell, Fatigue"
+NORMAL,No symptoms
+PNEUMONIA,"Loss of appetite, Weakness, Bluish skin, Sweating, Fever"
+TUBERCULOSIS,"Chills, Coughing blood, Chest pain, Loss of appetite, Weakness, Shortness of breath"
+COVID19,"Loss of taste or smell, Chills, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Muscle pain, Sweating"
+TUBERCULOSIS,"Chronic cough, Fever, Shortness of breath"
+COVID19,"Chills, Headache, Body aches, Congestion"
+NORMAL,No symptoms
+PNEUMONIA,"Bluish skin, Loss of appetite, Chest pain, Fever"
+TUBERCULOSIS,"Chronic cough, Night sweats, Coughing blood, Chest pain, Weight loss"
+COVID19,"Shortness of breath, Fatigue, Diarrhea, Nausea"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Sweating, Chills, Bluish skin"
+TUBERCULOSIS,"Weakness, Chronic cough, Chills, Fever"
+COVID19,"Congestion, Chills, Fever, Headache, Body aches, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Chest pain, Chills, Cough with phlegm, Muscle pain, Bluish skin, Sweating, Loss of appetite"
+TUBERCULOSIS,"Chest pain, Fever, Coughing blood, Weight loss"
+COVID19,"Sore throat, Cough, Diarrhea, Loss of taste or smell, Chills, Fever, Headache"
+NORMAL,No symptoms
+PNEUMONIA,"Cough with phlegm, Chills, Fever"
+TUBERCULOSIS,"Fever, Weakness, Night sweats, Fatigue"
+COVID19,"Fatigue, Congestion, Nausea, Chills, Diarrhea, Loss of taste or smell"
+NORMAL,No symptoms
+PNEUMONIA,"Fever, Sweating, Cough with phlegm, Muscle pain"
+TUBERCULOSIS,"Shortness of breath, Weakness, Weight loss, Loss of appetite, Coughing blood, Fever"
+COVID19,"Chills, Loss of taste or smell, Nausea, Fever, Body aches, Cough"
+NORMAL,No symptoms
+PNEUMONIA,"Shortness of breath, Muscle pain, Bluish skin, Sweating, Chills, Cough with phlegm"
+TUBERCULOSIS,"Chronic cough, Weight loss, Chills, Chest pain, Loss of appetite, Weakness"
+COVID19,"Sore throat, Shortness of breath, Chills, Diarrhea, Fatigue, Loss of taste or smell, Body aches"
+NORMAL,No symptoms
+PNEUMONIA,"Weakness, Loss of appetite, Cough with phlegm, Fever, Sweating, Chills"
+TUBERCULOSIS,"Fever, Chest pain, Chronic cough, Weakness, Loss of appetite, Shortness of breath, Fatigue"
